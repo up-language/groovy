@@ -16,7 +16,8 @@ plugins {
 }
 
 group = 'com.github.up-language'
-artifact = 'groovy'
+archivesBaseName = 'groovy'
+version = '2023.0719.1616'
 
 repositories {
     // Use Maven Central for resolving dependencies.
